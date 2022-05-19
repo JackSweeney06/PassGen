@@ -1,9 +1,9 @@
-#PassGen.py
-##A simple password generator using Python.
+#PassGen.py#
+##A simple password generator using Python.##
 
 This generator uses tkinter to create a simple window with buttons. The program uses the tkinter command pullback feature to allow password generation with the click of a button!
 
-#Features:
+#Features:#
 .Select your own password length using a spinbox
 
 .Copy your password to your clipboard
